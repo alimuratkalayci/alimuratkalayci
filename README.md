@@ -1,4 +1,3 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/92088743?s=400&u=85006a5bb5b538812791c930b593940e04a94b01&v=4)
 <h1 align="center">Hi 👋, I'm Ali Murat</h1>
 <h3 align="center">A passionate Mobile application developer (Ios & Android)</h3>
 
